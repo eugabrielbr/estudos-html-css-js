@@ -1,0 +1,13 @@
+
+www <- sub-dominio
+youtube <- dominio
+.com <- TLD (dominio de topo)
+
+=========================================================================================
+
+<h1> titulo
+<p> paragrafo
+<hr> linha horizontal
+
+
+
